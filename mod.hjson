@@ -1,0 +1,13 @@
+name: doorsthosus
+description:'''
+Adds doors to Asthosus. Simple as that.
+'''
+author: Chax0180
+version: 1
+displayName: "Asthosus Door Addon"
+subtitle: "Studies show this mod prevents 90% more infrastructure destruction."
+
+minGameVersion: 136
+version: 1.0
+hidden: true
+hideBrowser: false
