@@ -3,7 +3,7 @@ type: AutoDoor
 description: A wall that opens when allied ground units are in range. Cannot be manually controlled. Capable of absorbing lasers and conducting power.
 insulated: true
 absorbLasers: true
-  health: 1600
+  health: 2180
   requirements: [
 asthosus-01a-12-item-crosium/24
 asthosus-01a-11-item-barite/12
