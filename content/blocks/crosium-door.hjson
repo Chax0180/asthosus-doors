@@ -1,0 +1,21 @@
+type: AutoDoor
+  name: Crosium Door
+description: A wall that opens when allied ground units are in range. Cannot be manually controlled. Blocks electric arcs and interrupts power connections.
+insulated: true
+  health: 1600
+  requirements: [
+asthosus-01a-06-item-lodestone/24
+asthosus-01a-07-item-lithium/6
+  ]
+category:defense
+size:2
+  
+research: {
+  parent: asthosus-08h-06-lithium-wall-large
+  objectives: [
+    {
+      type: OnSector
+      preset: asthosus-19s-05-immist
+    }
+  ]
+}
