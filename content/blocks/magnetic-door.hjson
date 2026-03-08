@@ -4,8 +4,8 @@ description: A wall that opens when allied ground units are in range. Cannot be 
 insulated: true
   health: 1600
   requirements: [
-asthosus-01a-06-item-lodestone/24
-asthosus-01a-07-item-lithium/6
+asthosus-01a-06-item-lodestone/12
+asthosus-01a-07-item-lithium/12
   ]
 category:defense
 size:2
