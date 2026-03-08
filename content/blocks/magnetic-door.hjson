@@ -1,6 +1,6 @@
 type: AutoDoor
   name: Magnetic Door
-description: A wall that opens when allied ground units are in range. Cannot be manually controlled. Blocks electric arcs and interrupts power connections.
+description: A wall that opens when allied ground units are in range. Cannot be manually controlled. Blocks electric arcs and interrupts power connections. Sometimes releases electrical arcs that damage nearby enemies.
 insulated: true
   health: 1600
   requirements: [
@@ -19,3 +19,6 @@ research: {
     }
   ]
 }
+
+lightningChance: 0.05
+lightningDamage: 5
