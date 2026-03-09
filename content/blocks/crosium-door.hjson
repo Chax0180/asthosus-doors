@@ -1,4 +1,4 @@
-type: AutoDoor
+7thtype: AutoDoor
   name: Crosium Door
 description: A wall that opens when allied ground units are in range. Cannot be manually controlled. Capable of absorbing lasers and conducting power.
 insulated: true
@@ -15,4 +15,4 @@ size:2
 hasPower: true
 conductivePower: true
 
-research: asthosus-08h-11-crosium-wall-large
+research: asthosus-08h-12-crosium-wall-large
